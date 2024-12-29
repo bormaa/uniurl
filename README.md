@@ -43,7 +43,7 @@ options:
 uniurl -f output.txt
 ```
 
-#### txt format
+#### txt input format
 
 ```bash
 200 4KB https://example.com/path1
@@ -56,7 +56,7 @@ uniurl -f output.txt
 uniurl -j output.json
 ```
 
-#### JSON format
+#### JSON input format
 
 ```json
 {
